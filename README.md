@@ -1,6 +1,6 @@
 # 🎮 2D Action Roguelite (测试开发工程化 Demo)
 
-> 💡 **在线试玩体验 (GitHub Pages)**: [点击这里直接游玩](https://SauvignonBlanc73.github.io/你的仓库名/)
+> 💡 **在线试玩体验 (GitHub Pages)**: [点击这里直接游玩](https://SauvignonBlanc73.github.io/Survival-Demo/)
 > 
 > *注：本项目为求职游戏测试/测试开发岗位的个人实战 Demo，核心目的在于验证游戏底层架构的性能优化、逻辑解耦与可测试性设计。*
 
